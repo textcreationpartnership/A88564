@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two speeches of the Lord Chancellour of Scotland: the one, to the King at Newcastle; declaring, that if His Majesty refuses the advice given him, he will lose his friends, cities, and all England joyn against him; whereas, if he hearken to their councell, they will sacrifice their lives and fortunes for establishing of his throne. The other, at a conference with a committee of both Houses of Parliament; in answer to certain votes in Parliament; and giving the reasons, that the kingdom of Scotland have an equall interest to the person of the King; and that he cannot be disposed of, without the advice of that kingdome. And, that they cannot in duty nor honour deliver him (without his owne consent) to be disposed of, as the two Houses of Parliament shall think fit.</title>
+            <author>Loudoun, John Campbell, Earl of, 1598-1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88564</idno>
+            <idno type="STC">Wing L3093</idno>
+            <idno type="STC">Thomason E361_3</idno>
+            <idno type="STC">ESTC R201202</idno>
+            <idno type="EEBO-CITATION">99861737</idno>
+            <idno type="PROQUEST">99861737</idno>
+            <idno type="VID">113880</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88564)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113880)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 58:E361[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two speeches of the Lord Chancellour of Scotland: the one, to the King at Newcastle; declaring, that if His Majesty refuses the advice given him, he will lose his friends, cities, and all England joyn against him; whereas, if he hearken to their councell, they will sacrifice their lives and fortunes for establishing of his throne. The other, at a conference with a committee of both Houses of Parliament; in answer to certain votes in Parliament; and giving the reasons, that the kingdom of Scotland have an equall interest to the person of the King; and that he cannot be disposed of, without the advice of that kingdome. And, that they cannot in duty nor honour deliver him (without his owne consent) to be disposed of, as the two Houses of Parliament shall think fit.</title>
+                  <author>Loudoun, John Campbell, Earl of, 1598-1663.</author>
+               </titleStmt>
+               <extent>[2], 4, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T.H.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Novemb. 9. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The Lord Chancellour of Scotland = John Campbell, Earl of Loudoun.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113880:1"/>
+            <!-- PDF PAGE 83 -->
+            <pb facs="tcp:113880:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 83 -->
+            <p>TWO SPEECHES <hi>Of the Lord Chancellour of</hi> SCOTLAND:</p>
+            <p>THE ONE, To the King at <hi>Newcaſtle;</hi> declaring, that if His Majeſty refuſes the advice given Him, He will loſe His Friends, Cities, and all <hi>England</hi> joyn againſt Him; whereas, if he hearken to their Councell, they will ſacrifice their lives and fortunes for eſtabliſh<g ref="char:EOLhyphen"/>ing of His Throne.</p>
+            <p>THE OTHER, At a Conference with a Committee of both Houſes of Parliament; in anſwer to certain Votes in Parliament; and giving the reaſons, that the Kingdom of <hi>Scotland</hi> have an equall intereſt to the Perſon of the King; and that He cannot be diſpoſed of without the advice of that <hi>KINGDOME.</hi>
+            </p>
+            <p>And, that they cannot in Duty nor Honour deliver Him (without His owne conſent) to be diſpoſed of, as the Two Houſes of PARLIAMENT ſhall think fit.</p>
+            <p>
+               <hi>London,</hi> Printed for T. H. <hi>Novemb.</hi> 9. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:113880:2"/>
+            <!-- PDF PAGE 84 -->
+            <pb n="1" facs="tcp:113880:2"/>
+            <!-- PDF PAGE 84 -->
+            <head>The Lord Chancellour of Scotland, his Speech to the Kings Majeſty at <hi>Newcaſtle.</hi>
+            </head>
+            <p>YOur Majeſty was pleaſed on Monday laſt, to call the Lords of your privie Councel of <hi>Scotland,</hi> and the Committee to acquaint them with the Propoſitions, and told, that before the delivery of your anſwer, you would make the ſame known to them: the time aſſigned for the ſtay of the Commiſſioners is ſo ſhort, and the conſequence of your Majeſties anſwer is of ſo great importance, either for the preſervation or ruine of your Crown and Kingdoms, as we could not be anſwerable to God, nor to that truſt repoſed in us, unleſſe we repreſent to your Majeſty how neceſſary it is (as the condition of affaires now ſtand, and in ſo great an extremity) that your Majeſty ſhould aſſent to the Propoſitions, &amp; that the danger and loſſe of your refuſall will be remedileſſe, and bring on ſudden ruine and de<g ref="char:EOLhyphen"/>ſtruction.</p>
+            <p>I ſhall begin firſt with the laſt, which is the danger, and ſhall next ſpeak a word of the remedy. The differences between your Majeſty and your Parliament (which no man knowes better then your Majeſties ſelf) are grown to ſuch a height, that after many bloudy battels, there is no cure but a preſent peace, otherwiſe nothing can be expected but certain deſtru<g ref="char:EOLhyphen"/>ction. The Parliament is poſſeſt of your Navy, and of all the Forts, Gariſons, and ſtrong Holds of the kingdome. They have the Exciſe, Aſſeſments, and Sequeſtrations at their diſpoſall, &amp; haue authority to raiſe all the men &amp; money in the kingdom, and (after many victories and great ſucceſſes) they have a ſtrong Army on foot, &amp; are now in ſuch a poſture for ſtrength and power, as they are in a capacity to do what they will both in Church and State: And ſome are ſo afraid, others ſo unwil<g ref="char:EOLhyphen"/>ling to ſubmit themſelves to your Majeſties Government, as they deſire not you, nor any of your race longer to raign over them. Yet the people are ſo wearied of the wars, and great bur<g ref="char:EOLhyphen"/>thens they groan under, are ſo deſirous of peace, and loath to
+<pb n="2" facs="tcp:113880:3"/>
+               <!-- PDF PAGE 85 -->
+have Monarchial government (under which they have lived ſo long in peace and plenty) changed, that ſuch as are unwearied of your Maj. Government, dare not attempt to caſt it totally off, till once they ſend Propoſitions of Peace to your Majeſty, leſt the people (without whoſe concurrence they are not able to carry on their deſign) ſhould fall from them. And therefore all the people being deſirous, that (after ſo great wars &amp; trou<g ref="char:EOLhyphen"/>bles) that they may have a perfect ſecurity from oppreſſion &amp; arbitrary power, The houſes of Parliament have reſolved upon the Propoſitions, which are tendred to your Majeſty, as that without which the kingdome &amp; your People cannot be in ſafe<g ref="char:EOLhyphen"/>ty, and moſt part of the people think, that there cannot be a firme peace upon any other tearms.</p>
+            <p>Your Majeſties friends, and the Commiſſioners from Scot<g ref="char:EOLhyphen"/>land (after all the wreſtling they could) were forced to conſent to the ſending of thoſe Propoſitions, or to be hated as the hin<g ref="char:EOLhyphen"/>derers of peace, and to ſend no Propoſitions at all. And now, Sir if your Majeſty (which God forbid) ſhal refuſe to aſſent to the Propoſitions, you will loſe all your friends, loſe the city and all the country, and all England will joyn againſt you as one man, and (when all hope of reconciliation is paſt) it is to be fea<g ref="char:EOLhyphen"/>red, they will proceſſe and depoſe you, and ſet up another Go<g ref="char:EOLhyphen"/>vernment, they will charge us to deliver your Majeſty to them, and to tender the Northern Garriſons, and to remove our Ar<g ref="char:EOLhyphen"/>my out of <hi>England,</hi> and upon your Majeſties refuſing the Pro<g ref="char:EOLhyphen"/>poſitions, both kingdoms will be conſtrained (for their mutuall ſafety) to agree and ſettle Religion and Peace without you, which (to our unſpeakable grief) will ruine your Majeſty &amp; your Poſterity. And if your Majeſty reject our faithful advice who deſire nothing on earth more, then the eſtabliſhment of your Majeſties Throne) and loſe <hi>England</hi> by your wilfulneſſe, your Majeſty will not be permitted to come &amp; ruine <hi>Scotland.</hi>
+            </p>
+            <p>Sir, we have laid our hands upon our hearts, we have asked counſel and direction from God &amp; have laid our moſt ſerious thoughts about the remedy, but can find no other (as affaires ſtand for the preſent) to ſave your Crown &amp; Kingdomes, then your Maj. aſſenting to the Propoſitions. We dare not ſay, but they are higher in ſome things (if it were in our power &amp; opti<g ref="char:EOLhyphen"/>on to remedy it, then we do approve of: But when we ſee no
+<pb n="3" facs="tcp:113880:3"/>
+               <!-- PDF PAGE 85 -->
+other means for curing the diſtempers of the kingdoms &amp; clo<g ref="char:EOLhyphen"/>ſing the breaches between your Maj. &amp; your Parliaments, our moſt humble &amp; faithfull advice is <hi>That your Maj. would graci<g ref="char:EOLhyphen"/>ouſly <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to aſſent to them, as the beſt way to procure a ſpeedie &amp; happy peace; becauſe your Maj. ſhall thereby have many great ad<g ref="char:EOLhyphen"/>vantages. You will be received again in your P<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rl. with the applauſe and acclamations of your people: By your Royal preſence your friends will be ſtrengthned, your enemies (who fear nothing ſo much as the gra<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ting of the Pr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>poſitions) will be weakned:</hi> Your Maj. wil have a fit opportunity to offer ſuch Propoſitions, as you ſhall in your wiſdome judge fit for the Crown &amp; kingdom. All Armies will be disbanded, and your people, finding the ſweet fruits of your peaceable government, your Maj. wil gain the hearts &amp; affecti<g ref="char:EOLhyphen"/>ons, which will be your ſtrength &amp; glory, and will recover all that your Maj. hath loſt in this time of tempeſt &amp; trouble. And if it pleaſe God ſo to encline your Royall heart to this advice of your humble &amp; faithfull ſervants, who (next to the honour of God) eſteem nothing more precious then the ſafety of your Perſon &amp; Crown, our actions ſhall quickly make it appear to all the world; that we eſteem no hazard too great for your Maj. ſafety &amp; that we are willing to ſacrifice our lives and fortunes for eſtabliſhing of your Throne. And now, Sir, we proſtrate our ſelves at your Maj. feet, &amp; in the loweſt poſture of humility do beg; that your Maj. may (in end) grant the ſute of your moſt humble ſervants &amp; faithful ſubjects, who have no private aims but only the glory of God, &amp; ſafety of your Maj. Perſon, Poſte<g ref="char:EOLhyphen"/>rity, and Crown before our eyes. And the granting of our de<g ref="char:EOLhyphen"/>ſires wil revive our fainting ſpirits, refreſh our ſad harts, which are over-whelmed and like to break with ſorrow, and wil turn the prayers and tears of the many thouſands of your people, in praiſes to God, and make them embrace your Majeſty with acclamations of joy.</p>
+         </div>
+         <div type="speech">
+            <head>The Lord Chancellour of <hi>Scotland</hi> his Speech, at a Con<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence in the Painted Chamber with a Com<g ref="char:EOLhyphen"/>mittee of both Houſes, <hi>October 10. 1646.</hi>
+            </head>
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>THis day I hope will bring our Conference to ſome reſults to be reported to the Houſes, and therefore I ſhall frame
+<pb n="4" facs="tcp:113880:4"/>
+               <!-- PDF PAGE 86 -->
+my Diſcourſe and Arguments with that ſuccinctneſſe as may bring us ſooneſt to a cloſe,</p>
+            <p>At our firſt meeting, the ſubject of our debate was; whe<g ref="char:EOLhyphen"/>ther the Right Power of diſpoſing the Perſon of the King is ſolely in the two Houſes as they ſhall thinke fit, or in the two Kingdomes; and at our laſt meeting, we had ſome arguing a<g ref="char:EOLhyphen"/>bout the ſame queſtion, but your Lordſhips did ſtill aſſert the Vote of the Houſes, and we ſay in reſpect of the intereſt and relations which both Kingdomes have equally to the King, e<g ref="char:EOLhyphen"/>ſpecially in the preſent juncture of affaires, when both King<g ref="char:EOLhyphen"/>domes are entred in the ſame League and Covenant, have jeoparded their lives in the ſame War, are labouring under the ſame danger, are ſeeking the ſame remedies, and ſtand in need of the ſame peace and ſecurity; and both Kingdomes are bound by our Covenant to preſerve unity, and are obliged by Treaty that none of us ſhall make any peace, ceſſation, or a<g ref="char:EOLhyphen"/>greement whatſoever, without mutuall advice and conſent of both) That the Perſon of the King cannot be diſpoſed of with<g ref="char:EOLhyphen"/>out the joynt advice and conſent of both Kingdomes. But as we do acknowledge that England hath parity of intereſt with Scotland, ſo do we ſtill offer that they ſhall have parity of pow<g ref="char:EOLhyphen"/>er in diſpoſing of the King: and we do affirme, That the Per<g ref="char:EOLhyphen"/>ſon of the King, who is King of Scotland as well as of En<g ref="char:EOLhyphen"/>gland, and is Head and Monarch of both Kingdomes, cannot be diſpoſed of by any one of the Kingdomes alone: but what ever is to be done concerning his Majeſties perſon, ought to be done by joynt advice and common conſent of both, as may ſerve moſt for the Peace, ſecurity, and happineſſe of the King<g ref="char:EOLhyphen"/>domes, which wee did prove by ſeverall Arguments: To which there was nothing anſwered in effect, but, that the King being within England, his Perſon was to be diſpoſed of as the two Houſes ſhall thinke fit, and that the King being with the Scottiſh Army, and they being paid by the Parlia<g ref="char:EOLhyphen"/>ment of England, he is in effect in the power of the Houſes, &amp; ought to be at their diſpoſing in the <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me way as if he had come to the Army of Sir T. Fairfax, or any other of the Parlia<g ref="char:EOLhyphen"/>ments Armies<g ref="char:punc">▪</g> To which we ſhall not need to make any reply other then we have made already, That the Kings preſent reſi<g ref="char:EOLhyphen"/>dence in England, nor no locality, can take away the reality
+<pb facs="tcp:113880:4"/>
+               <!-- PDF PAGE 86 -->
+of our relations formerly mentioned by us, far leſſe can it take away the ingagements and ſtipulations betweene the King<g ref="char:EOLhyphen"/>domes; and though the Scottiſh Army paid by the Parliament of England, yet they are the Army of Scotland, raiſed for pur<g ref="char:EOLhyphen"/>ſuance of the ends of the Covenant, and are to be ordered and directed by the Parliaments or Committees of both King<g ref="char:EOLhyphen"/>domes; And therefore they cannot with conſcience, duty, nor honour deliver the perſon of the King without his owne con<g ref="char:EOLhyphen"/>ſent to be diſpoſed of as the two Houſes ſhall thinke fit: but we have declared and do ſtill declare<g ref="char:punc">▪</g> That we are content that the perſon of the King be diſpoſed of (the word Diſpoſed be<g ref="char:EOLhyphen"/>ing taken in a right ſenſe) as may ſerve moſt for the peace, ſafe<g ref="char:EOLhyphen"/>ty, ſecurity honour and happineſſe of the King and both King<g ref="char:EOLhyphen"/>domes: and did offer to your Lordſhips conſideration his Ma<g ref="char:EOLhyphen"/>jeſties comming to or neere London, as the moſt probable meanes for a ſpeedy and well-grounded Peace. And ſeeing your Lordſhips have done us the honour to meet with us in this free and brotherly Conference, we do expect that you will concurre and aſſent to this Propoſition. or propound a better expedient for the good of both Kingdomes.</p>
+            <p>But if the honourable Houſes will not admit of this Propoſi<g ref="char:EOLhyphen"/>tion, our next deſire is (that it may appeare, no lawfull and poſ<g ref="char:EOLhyphen"/>ſible meanes are left unaſſayed which may procure a happy a<g ref="char:EOLhyphen"/>greement betwixt the King and his Parliaments, and for our further exoneration) That Commiſſioners may yet once more be ſent from both kingdomes to his Majeſty, to ſhew the mea<g ref="char:EOLhyphen"/>ning of our Propoſitions and to aſſert them, and to heare the Kings doubts and difficulties, and deſires, who may further in<g ref="char:EOLhyphen"/>timate that (if his Majeſty ſhall not give a ſatisfactory anſwer to the Propoſitions) then both kingdomes will without making any ſuch further application to him, take ſuch courſe as they ſhall judge fitteſt for the peace and ſecurity of the kingdomes.</p>
+            <p>And as at the opening of this Conference I did begin with an humble, lawfull, and laudable deſire for unity in relation, the King, and amongſt our ſelves, ſo ſhall I cloſe in the ſame dia<g ref="char:EOLhyphen"/>lict; for the firſt of Religion, if we do remember our vowes to God to performe them, and uniformity according to our Co<g ref="char:EOLhyphen"/>venant, we may certainly expect that God will crown this great work, wherin he hath honored us to be actors, with his bleſſing; but if in place of uniformity, which we are obliged to endea<g ref="char:EOLhyphen"/>vor, there ſhall be a toleration of all Sects and ſores of Religion,
+<pb facs="tcp:113880:5"/>
+               <!-- PDF PAGE 87 -->
+and if we neglect to build the houſe of God, and become inſo<g ref="char:EOLhyphen"/>lent upon our ſucceſſes, although we could mount up with Ea<g ref="char:EOLhyphen"/>gles wings, and build our neſts as high as the ſtarres, and had an army who for valor and ſtrength could march to Conſtanti<g ref="char:EOLhyphen"/>nople, God ſhall lay our glory low in he duſt, and ſuffer the work to fall in our hands, like the confuſion of Babell; And whatever hath been moved by us concerning the King, we de<g ref="char:EOLhyphen"/>ſire it may be rightly conſtructed, as proceeding from ſuch as have not wavered from their firſt principles; for when the King was in the height of his power, we did not, and (I hope) never ſhall flatter him; and when the enemy was in the height of their pride and ſtrength, Scotland did feare no colours: and now when the King is at his loweſt ebb, and hath caſt himſelfe into our Army for ſafety, we hope your Lordſhips will pardon us from our ſenſe of honour and duty to be very tender of the perſon, and poſterity of the King, to whom we have ſo many neer relations, and not like the worſe of us: that we cannot ſo farre forget our allegeance and duty as not to have an antipa<g ref="char:EOLhyphen"/>thy againſt the change of Monarchicall government, in which we have lived through the deſcent of ſo many Kings, and un<g ref="char:EOLhyphen"/>der which both Kingdoms have been governed ſo many ages, and flouriſhed in al<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> happineſſe. And now my laſt word ſhall be for conſtant unity between the Kingdoms, which as it hath been the chiefe meanes to pr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mote the great worke wherein both kingdoms are ſo deepely engaged, ſo there is nothing can make us ſo informidable to our enemies, nor ſo much ayding one to another as the cheriſhing and continuing thereof; and I dare ſay that no man would divide the one from the other, but ſuch as deſire to fiſh in troubled waters, and are reall enemies to both: God hath bleſt the ioynt endeavours of both Nations, both are in one ſhip, and are come through a very great ſtorme, and now when we are come into the harbour, it would be great ſhame to both to ſplit upon the rocks of diviſion (&amp; devorato bove deficere in cauda) and your Lordſhips may be confident that Scotland who have eſteemed no hazard too great for ſet<g ref="char:EOLhyphen"/>ling of Religion and love to their Brethren, will ſtick ſo faſt &amp; firmly to you, (ſo <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ong as you hold the principles of your Co<g ref="char:EOLhyphen"/>venant) as no feare nor favour will ever be able to divide them from you, and we do expect that reciprocall amity which may perpetuate our un<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
